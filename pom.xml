@@ -11,6 +11,7 @@
     <modules>
         <module>ymall-common</module>
         <module>ymall-api</module>
+        <module>yamll-mbg</module>
     </modules>
 
 
